@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Dorwido" APIVersion="9" Name="HideThisWhen" Description="" Version="0.3">
+    <Script Name="HideThisWhen.lua"/>
+    <Form Name="HideThisWhen.xml"/>
+</Addon>
